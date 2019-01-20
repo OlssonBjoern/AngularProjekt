@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "!AutobotsAssemble4",
+    "JWT_KEY": "this_should_be_a_very_long_word_or_secret_for_development"
+  }
+}
